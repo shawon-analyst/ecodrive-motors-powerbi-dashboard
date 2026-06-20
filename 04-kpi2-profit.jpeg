@@ -1,0 +1,14 @@
+# Dashboard Screenshots
+
+Page-by-page exports of the live Power BI report, referenced from the main [`README.md`](../../README.md).
+
+| File | Page |
+|---|---|
+| `01-title-page.jpeg` | Title Page (cropped — student names/IDs removed for the public repo) |
+| `02-introduction.jpeg` | Introduction |
+| `03-kpi1-sales-revenue.jpeg` | KPI 1 — Sales & Revenue |
+| `04-kpi2-profit.jpeg` | KPI 2 — Profit |
+| `05-kpi3-sustainability.jpeg` | KPI 3 — Sustainability |
+| `06-kpi-rationale.jpeg` | KPI Rationale |
+| `07-conclusion-recommendations.jpeg` | Conclusion & Recommendations |
+| `08-references.jpeg` | References |
